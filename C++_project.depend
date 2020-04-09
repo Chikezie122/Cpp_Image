@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1560875341 source:c:\users\user\desktop\my document\advanced c++ tuts\c++_project\c++_project_1.cpp
+
+1560874072 c:\users\user\desktop\my document\advanced c++ tuts\c++_project\bitmapfileheader.h
+	<cstdint>
+
+1560874025 c:\users\user\desktop\my document\advanced c++ tuts\c++_project\bitmapinfoheader.h
+	<cstdint>
+
+1561503908 source:c:\users\user\desktop\my document\advanced c++ tuts\c++_project\main.cpp
+	<iostream>
+	<cstdint>
+	<memory>
+	<math.h>
+	"Bitmap.h"
+	"Mandelbrot.h"
+
+1561581203 source:c:\users\user\desktop\my document\advanced c++ tuts\c++_project\src\bitmap.cpp
+	<iostream>
+	<cstdint>
+	<fstream>
+	"Bitmap.h"
+	"BitmapInfoHeader.h"
+	"BitmapFileHeader.h"
+
+1561581250 c:\users\user\desktop\my document\advanced c++ tuts\c++_project\include\bitmap.h
+	<iostream>
+	<cstdint>
+	<memory>
+
+1560880769 c:\users\user\desktop\my document\advanced c++ tuts\c++_project\include\bitmapfileheader.h
+	<cstdint>
+
+1560879947 c:\users\user\desktop\my document\advanced c++ tuts\c++_project\include\bitmapinfoheader.h
+	<cstdint>
+
+1561580919 c:\users\user\desktop\my document\advanced c++ tuts\c++_project\include\mandelbrot.h
+
+1561505168 source:c:\users\user\desktop\my document\advanced c++ tuts\c++_project\src\mandelbrot.cpp
+	<complex>
+	"Mandelbrot.h"
+
